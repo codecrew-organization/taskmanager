@@ -35,7 +35,7 @@ This README.md file outlines the features and functionalities of the Task Manage
   - Development sequence: Back-end first, then front-end. Followed by testing.
 - **Estimated Time:** 8 hours
 
-### Product Backlog 4
+### Product Backlog 4 
 
 - **Description:** Users can delete tasks, with a confirmation message displayed upon clicking delete. If confirmed, the task will be deleted and the table will be updated accordingly.
 - **Features:**
