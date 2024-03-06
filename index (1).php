@@ -10,7 +10,7 @@
     <title>Task Management</title>
 </head>
 
-<body>
+<body>    
 
     <table>
         <tr class="white-text">
